@@ -8,12 +8,12 @@
 
 # ALGORITHM :
 
-## Start the program.
-## Get the frame size from the user
-## To create the frame based on the user request.
-## To send frames to server from the client side.
-## If your frames reach the server, it will send ACK signal to client otherwise it will send NACKsignal to client.
-## Stop the program
+### Start the program.
+### Get the frame size from the user
+### To create the frame based on the user request.
+### To send frames to server from the client side.
+### If your frames reach the server, it will send ACK signal to client otherwise it will send NACKsignal to client.
+### Stop the program.
 
 
 
@@ -53,4 +53,4 @@ while True:
 ![output](./C.png)
 
 # RESULT :
-## Thus, the python program for creating Echo Client and Echo Server using TCP Sockets Links was successfully created and executed.
+### Thus, the python program for creating Echo Client and Echo Server using TCP Sockets Links was successfully created and executed.
