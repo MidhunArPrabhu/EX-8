@@ -19,8 +19,8 @@
 
 # CLIENT PROGRAM :
 ```python 3
-## Developed By : Kavinraja D
-## Reg no : 212222240047
+## Developed By : MIDHUN AZHAHU RAJA P
+## Reg no : 212222240066
 import socket
 
 s = socket.socket()
